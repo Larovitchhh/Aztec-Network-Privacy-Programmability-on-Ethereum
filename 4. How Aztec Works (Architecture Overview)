@@ -1,0 +1,27 @@
+
+
+Aztec’s architecture consists of several interacting layers:
+
+1. Aztec Contracts
+
+Hybrid contracts containing both private and public functions.
+
+2. Execution Layer
+
+Handles encrypted computation and generates proofs.
+
+3. Rollup Layer
+
+Bundles transactions and submits proofs to Ethereum.
+
+4. Settlement Layer
+
+Ensures that private updates are valid and consistent on L1.
+
+This layered approach offers:
+
+Privacy by default
+
+Lower fees compared to L1
+
+Composability with Ethereum tools
