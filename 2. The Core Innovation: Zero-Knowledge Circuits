@@ -1,0 +1,12 @@
+
+Aztec leverages ZK-SNARKs to enable private computation. This allows transactions and smart contract logic to remain encrypted while still being verified by the network.
+
+Core components:
+
+Private State: balances, variables, and internal contract data remain encrypted.
+
+Public State: settlement, validation, and proofs are published to Ethereum.
+
+Hybrid Execution Model: developers choose which functions are public or private.
+
+By separating private and public states, Aztec offers Ethereum compatibility + privacy guarantees on a single rollup.
