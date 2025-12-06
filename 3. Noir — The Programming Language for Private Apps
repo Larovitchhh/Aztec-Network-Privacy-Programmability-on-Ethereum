@@ -1,0 +1,14 @@
+
+Aztec introduces Noir, a Rust-inspired programming language built specifically for writing privacy-preserving circuits.
+
+Why Noir matters:
+
+Abstracts away complex cryptography
+
+Allows developers to build private logic easily
+
+Works with both Aztec contracts and generic ZK circuits
+
+Has a growing ecosystem, libraries, and tooling
+
+Noir reduces the barrier to entry for developers wanting to build advanced ZK apps without deep cryptographic expertise.
